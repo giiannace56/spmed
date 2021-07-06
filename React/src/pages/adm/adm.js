@@ -27,8 +27,8 @@ class Adm extends Component
     return(
 
         <div>
-          <header className="cab-ADM">
-        <div className="ctn-ADM">
+          <header className="cabeçalho">
+        <div className="algo-ADM">
             <div className="logo-ADM">
                 <img className="img-ADM" src={logo} alt="logo-ADM"/>
             </div>
@@ -42,8 +42,8 @@ class Adm extends Component
     </header>
 
     <main className="main-ADM">
-        <section className="ctn-ADM">
-            <div className="txtmain-ADM">
+        <section className="algo-ADM">
+            <div className="textox">
                 
                 <p>acesso do</p>
                 <p>administrador</p>
@@ -51,10 +51,10 @@ class Adm extends Component
             </div>
 
             <div className="meio-ADM">
-                <div className="linha-ADM"></div>
+                <div className="line-ADM"></div>
             </div>
 
-            <div className="userImg-ADM">
+            <div className="qlqimg-ADM">
                 <img src={user} alt="foto"/>
             </div>
         </section>

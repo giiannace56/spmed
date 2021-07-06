@@ -89,23 +89,23 @@ class Login extends Component
         <section className="login-log">
             <div className="logo-log"></div>
  
-            <div className="inputsLogo-log">
+            <div className="qlqLogo-log">
                     
                     <form onSubmit={this.efetuarLogin}>
                         
-                        <input className="inputNome-log" type="email" name="email" value={this.state.email} onChange={this.atualizarCampos} placeholder="Email"/>
+                        <input className="namezin-log" type="email" name="email" value={this.state.email} onChange={this.atualizarCampos} placeholder="Email"/>
                         
-                        <input className="inputNome-log" type="password" name="senha" value={this.state.senha} onChange={this.atualizarCampos} placeholder="Senha"/>
+                        <input className="namezin-log" type="password" name="senha" value={this.state.senha} onChange={this.atualizarCampos} placeholder="Senha"/>
                         
-                        <button className="btn-log">Login</button>
+                        <button className="botaum-log">Login</button>
 
-                        <p className="error-log">{this.state.errorMensage}</p>
+                        <p className="erro-log">{this.state.errorMensage}</p>
    
                     </form>
 
              </div>
  
-            <div className="logo-log">
+            <div className="icon-log">
                 <img src={logo} alt=""/>
             </div>
         </section>
