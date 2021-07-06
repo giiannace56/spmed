@@ -1,8 +1,6 @@
 import { Component } from 'react'
 import { Link } from 'react-router-dom';
-import '../../asset/css/admCadastrar.css'
-import logo from '../../asset/img/logo.png'
-import casa from '../../asset/img/pagina-inicial.png'
+
 
 class AdmCadastrar extends Component{
     constructor(props)

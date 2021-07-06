@@ -1,8 +1,4 @@
 import { Component } from 'react'
-import '../../asset/css/user.css'
-import logo from '../../asset/img/logo.png'
-import casa from '../../asset/img/pagina-inicial.png'
-import user from '../../asset/img/arquivo-medico.png'
 import { Link } from 'react-router-dom'
 
 

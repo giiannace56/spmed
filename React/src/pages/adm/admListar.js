@@ -1,7 +1,4 @@
 import { Component } from 'react'
-import '../../asset/css/admListar.css'
-import casa from '../../asset/img/pagina-inicial.png'
-import logo from '../../asset/img/logo.png'
 import { Link } from 'react-router-dom';
 
 class AdmListar extends Component{

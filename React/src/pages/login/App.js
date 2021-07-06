@@ -1,8 +1,5 @@
 import { Component } from 'react'
 import axios from 'axios'
-import '../../asset/css/login.css'
-import login from '../../asset/img/undraw_secure_login_pdn4.png'
-import logo from '../../asset/img/logo.png'
 import { parseJWT} from '../../services/auth'
 
 class Login extends Component

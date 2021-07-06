@@ -1,7 +1,4 @@
 import { Component } from "react"
-import '../../asset/css/userLista.css'
-import logo from '../../asset/img/logo.png'
-import casa from '../../asset/img/pagina-inicial.png'
 
 class UserLista extends Component
 {

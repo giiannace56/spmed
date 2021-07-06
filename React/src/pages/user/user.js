@@ -1,10 +1,5 @@
 import { Component } from 'react'
 import { Link } from 'react-router-dom'
-// import '../../asset/css/user.css'
-import logo from '../../asset/img/logo.png'
-import casa from '../../asset/img/pagina-inicial.png'
-import user from '../../asset/img/userr.png'
-
 
 class User extends Component
 {

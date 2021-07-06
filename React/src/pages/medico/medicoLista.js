@@ -1,7 +1,4 @@
 import { Component } from "react"
-import '../../asset/css/medicoListar.css'
-import casa from '../../asset/img/pagina-inicial.png'
-import logo from '../../asset/img/logo.png'
 
 class ListaMedico extends Component
 {
